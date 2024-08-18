@@ -14,19 +14,18 @@ and further leveraging the relevance between real words and image regions to dis
 RealCustom++ has now been commercially applied in Dreamina, ByteDance. 
 You can enjoy the customized generation for any subjects you like following the two steps:
 
-1. **Step 1: Create A Character**: 
+### Step 1: Create A Character: 
 Create character images and corresponding appearance descriptions through prompt descriptions, uploading reference images. Specifically:
     1. **Character Image**: Best in clean background, close-up, prominent subject, high-quality resolution.
     2. **Character Description**: Brief, includes the subject and key appearance elements.
 
-通过prompt描述、上传参考图片或者文本生成图像创建角色图片和对应外观描述，其中
-    1. 角色图片-最好是干净背景，主体突出，画质清晰的图像
-    2. 角色描述-简短，包含主语和关键外观元素
-
 ![character](assets/dreamina_character.jpg)
 
-2. **Step 2: Character-Driven Generation**:
+### Step 2: Character-Driven Generation:
+Input prompts where the subject is replaced by the selected character, guiding the character to make corresponding changes such as style, actions, expressions, scenes, and modifiers. 
+There is no need to add descriptions of the subject in the prompt. "Face Reference Strength" is the weight for ID retention, and "Body Reference Strength" is the weight for IP retention.
 
+![character](assets/dreamina_generation.jpg)
 
 ## About Code Release
 
