@@ -23,11 +23,7 @@ Create character images and corresponding appearance descriptions through prompt
     1. 角色图片-最好是干净背景，主体突出，画质清晰的图像
     2. 角色描述-简短，包含主语和关键外观元素
 
-![character](assets/dreamina_character1.jpeg)
-
-An example of the character image:
-
-![character_image](assets/dreamina_character_example.jpeg)
+![character](assets/dreamina_character.jpg)
 
 2. **Step 2: Character-Driven Generation**:
 
