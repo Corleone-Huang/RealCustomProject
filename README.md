@@ -28,6 +28,8 @@ There is no need to add descriptions of the subject in the prompt. "Face Referen
 ![character](assets/dreamina_generation.jpg)
 
 ## About Code Release
+Unfortunately, according to company policy, considering the model's performance is closely aligned with Dreamina's online effects, we are *currently* unable to open-source the code and model. *We plan to open-source RealCustom++ after the next version update in Dreamina. Please stay tuned!*
+
 
 ## Reference
 
