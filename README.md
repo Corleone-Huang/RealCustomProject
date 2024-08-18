@@ -8,7 +8,7 @@ The core idea of RealCustom++ is to represent given subjects as real words that 
 and further leveraging the relevance between real words and image regions to disentangle subjects from texts. 
 
 ![motivation](assets/motivation.jpg)
-![generation](assets/generation.jpg)
+<!-- ![generation](assets/generation.jpg) -->
 
 ## Enjoy on [Dreamina](https://jimeng.jianying.com/ai-tool/home) at Two Steps
 RealCustom++ has now been commercially applied in Dreamina, ByteDance. 
