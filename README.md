@@ -10,8 +10,21 @@ and further leveraging the relevance between real words and image regions to dis
 ![motivation](assets/motivation.jpg)
 ![motivation](assets/generation.jpg)
 
-## Enjoy on [Dreamina](https://jimeng.jianying.com/ai-tool/home)
+## Enjoy on [Dreamina](https://jimeng.jianying.com/ai-tool/home) at Two Steps
+RealCustom++ has now been commercially applied in Dreamina, ByteDance. 
+You can enjoy the customized generation for any subjects you like following the two steps:
 
+1. **Step 1: Create A Character**: 
+Create character images and corresponding appearance descriptions through prompt descriptions, uploading reference images, and image editing. Specifically:
+1. **Character Image**: Front view, clean background, close-up, prominent subject, high-quality resolution.
+2. **Character Description**: Brief, includes the subject and key appearance elements.
+
+通过prompt描述、上传参考图片以及图片编辑创建角色图片和对应外观描述，其中
+1. 角色图片-正面，干净背景，近景，主体突出，画质清晰
+2. 角色描述-简短，包含主语和关键外观元素
+
+Visit the [RealCustom++ website](https://example.com).
+2. **Step 2**: Follow the instructions on the website to customize your generation.
 
 
 ## About Code Release
