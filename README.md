@@ -8,7 +8,22 @@ The core idea of RealCustom++ is to represent given subjects as real words that 
 and further leveraging the relevance between real words and image regions to disentangle subjects from texts. 
 
 ![motivation](assets/motivation.jpg)
+![motivation](assets/generation.jpg)
 
 ## Enjoy on [Dreamina](https://jimeng.jianying.com/ai-tool/home)
 
+
+
 ## About Code Release
+
+## Reference
+
+```
+@inproceedings{huang2024realcustom,
+  title={RealCustom: Narrowing Real Text Word for Real-Time Open-Domain Text-to-Image Customization},
+  author={Huang, Mengqi and Mao, Zhendong and Liu, Mingcong and He, Qian and Zhang, Yongdong},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={7476--7485},
+  year={2024}
+}
+```
