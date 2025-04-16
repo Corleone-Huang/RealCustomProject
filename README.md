@@ -10,6 +10,10 @@ and further leveraging the relevance between real words and image regions to dis
 ![motivation](assets/motivation.jpg)
 ![generation](assets/generation.jpg)
 
+## 🔥 News
+- [04/2025] 🔥 We release our newly customization framework [UNO](https://github.com/bytedance/UNO?tab=readme-ov-file)
+- [04/2025] 🔥 The code and model of [RealCustom at ByteDance Github](https://github.com/bytedance/RealCustom) is released.
+
 ## Enjoy on [Dreamina](https://jimeng.jianying.com/ai-tool/home) at Two ways
 RealCustom++ has now been commercially applied in Dreamina and Doubao, ByteDance. 
 You can enjoy the customized generation for any subjects you like by calling the following APIs:
